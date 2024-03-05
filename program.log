@@ -1,0 +1,5 @@
+2024-03-05 23:07:26,802 - INFO - Program start
+2024-03-05 23:07:26,819 - INFO - Entry has been created to file subjects.csv - Subject: Математика, Grades: [4, 4], Test_scores: [85, 75]
+2024-03-05 23:07:26,819 - INFO - Entry has been created to file subjects.csv - Subject: Физика, Grades: [3], Test_scores: [50]
+2024-03-05 23:07:26,819 - INFO - Entry has been created to file subjects.csv - Subject: История, Grades: [5], Test_scores: [92]
+2024-03-05 23:07:26,819 - INFO - Program stop
